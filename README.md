@@ -1,4 +1,4 @@
-# Group 34 - Overfishing and climate change
+# Group 34 - Overfishing and Climate Change
 
 **Please remember to update this section**
 
@@ -22,25 +22,20 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-**Please remember to update this section**
-
 - Person 1: Livia Zalilla
 - Person 2: Lily Yao
 - Person 3: Nick Chen
 
 ## Images
 
-**Please remember to update this section and remove the test image!**
-
-{You can use this area for any images you want to include}
-
-<img src ="https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/wldpsa1_000003422724_2400.jpg?itok=-2yXuvri" width="300px">
+<img src ="https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/wldpsa1_000003422724_2400.jpg?itok=-2yXuvri" width="400px">
+rbouwman/iStock
 
 ## References
 
-**Please remember to update this section**
+NRDC. (2021). Stop Overfishing and Restore Fisheries [Infographic]. NDRC. https://www.nrdc.org/issues/stop-overfishing-and-restore-fisheries
 
-{Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
+Geukjian, S. (2022, October 15). Fish and overfishing. Kaggle. Retrieved October 15, 2022, from https://www.kaggle.com/datasets/sergegeukjian/fish-and-overfishing 
 
 
 
