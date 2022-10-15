@@ -1,4 +1,4 @@
-# Group 34 - {Short snappy Title of your project}
+# Group 34 - Overfishing and Climate Change
 
 
 ## Milestone 2
@@ -21,19 +21,23 @@ We want to explore how overfishing and unsustainable fishery production could im
 
 ## Team Members
 
-- Person 1: My name is Livia Zalilla and I'm a fourth year Computer Science major!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+
+- Person 1: Livia Zalilla
+- Person 2: Lily Yao
+- Person 3: Nick Chen
+
 
 ## Images
 
-**Please remember to update this section and remove the test image!**
-
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
+<img src ="https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/wldpsa1_000003422724_2400.jpg?itok=-2yXuvri" width="400px">
+rbouwman/iStock
 
 ## References
 
-Serge Geukjian. Fish and Overfishing, Attribution 4.0 International (CC BY 4.0). https://www.kaggle.com/datasets/sergegeukjian/fish-and-overfishing?datasetId=1900468
+
+NRDC. (2021). Stop Overfishing and Restore Fisheries [Infographic]. NDRC. https://www.nrdc.org/issues/stop-overfishing-and-restore-fisheries
+
+Geukjian, S. (2022, October 15). Fish and overfishing. Kaggle. Retrieved October 15, 2022, from https://www.kaggle.com/datasets/sergegeukjian/fish-and-overfishing 
+
+
 
