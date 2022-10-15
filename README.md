@@ -18,9 +18,9 @@ We want to explore how overfishing and unsustainable fishery production could im
 
 ## Describe your dataset in about 150-200 words
 
-Our dataset comprises the global fishery production per year across different countries and regions via methods of wild capture and farming production. The production levels are all measured in terms of metric tones, and each country and region are identified by their country code. The variation of fishery production data helps us to identify whether a particular country overproduced and over-captured fish stocks, allowing us to predict changes in the fishing production for that particular country and the impact it may have on climate change as a whole. We also look at different fishery methods such as aquaculture, the practice of fish and seafood farming, and correlate its shifting change of methods to identify whether the improved production innovation has helped to alleviate some of the pressure of fish and seafood farming.
+Our dataset comprises the global fishery production per year across different countries and regions via methods of wild capture and farming production. The production levels are all measured in terms of metric tones, and each country and region are identified by their country code. The variation of fishery production data helps us to identify whether a particular country overproduced and over-captured fish stocks, allowing us to predict changes in the fishing production for that particular country and the impact it may have on climate change as a whole. We also look at different fishery methods such as aquaculture, the practice of fish and seafood farming, and correlate its shifting change of methods to identify whether the improved production innovation has helped to alleviate some of the pressure of fish and seafood farming. 
 
-Each of our dataset collects local production data from 1960 to 2018, provided by Serge Geukjian on Kaggle.com, and contains 4-5 columns, including the country name, country code, production year, and the corresponding production levels. Recent production levels ranging years from 2005 to 2018 are accurate up to 9 decimal places. Data were collected through RAM Legacy Stock Assessment Database, under the names of Ray Hilborn, Michael Melnychuk, Max Mossler and Daniel Hively. 
+Each of our dataset collects local production data from 1960 to 2018, provided by Serge Geukjian on Kaggle.com, and contains 4-5 columns, including the country name, country code, production year, and the corresponding production levels. Recent production levels ranging years from 2005 to 2018 are accurate up to 9 decimal places. Data were collected through RAM Legacy Stock Assessment Database and retrieved on a yearly basis, under the names of Ray Hilborn, Michael Melnychuk, Max Mossler and Daniel Hively. 
 
 Our dataset contains:
 1. Captured and farmed (production) levels per year and per country or region
@@ -44,7 +44,7 @@ rbouwman/iStock
 
 NRDC. (2021). Stop Overfishing and Restore Fisheries [Infographic]. NDRC. https://www.nrdc.org/issues/stop-overfishing-and-restore-fisheries
 
-Geukjian, S. (2022, October 15). Fish and overfishing. Kaggle. Retrieved October 15, 2022, from https://www.kaggle.com/datasets/sergegeukjian/fish-and-overfishing 
+Geukjian, S. (2022, October 15). Fish and overfishing. Kaggle. Attribution 4.0 International (CC BY 4.0). Retrieved October 15, 2022, from https://www.kaggle.com/datasets/sergegeukjian/fish-and-overfishing 
 
 
 
