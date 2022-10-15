@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 34 - Overfishing and climate change
 
 **Please remember to update this section**
 
@@ -24,9 +24,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Person 1: Livia Zalilla
+- Person 2: Lily Yao
+- Person 3: Nick Chen
 
 ## Images
 
@@ -34,7 +34,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 {You can use this area for any images you want to include}
 
-<img src ="images/test.png" width="100px">
+<img src ="https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/wldpsa1_000003422724_2400.jpg?itok=-2yXuvri" width="300px">
 
 ## References
 
