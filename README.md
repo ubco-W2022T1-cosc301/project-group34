@@ -10,13 +10,13 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-**Please remember to update this section**
+One of the major drivers for biodiversity loss in the ocean ecosystem is overfishing. Commercial fishing is a large contributor to exploiting fish stock through unethical methods and practices of catching fish. Unsustainable fishery production continues to weaken the resilience of many marine species to climate change. Thus, making them more vulnerable to ocean warming and extinction. 
 
-{Add your stuff here}
+The development of technology can be used to implement sustainable fishing practices and mitigate biodiversity loss. Aquaculture is the farming of aquatic organisms such as fish, shellfish and aquatic plants. Farmed fishing has decreased the rate of wild fish catches and increased the resilience of marine species. This allows them to be able to reproduce and sustain population levels. 
+
+We want to explore how overfishing and unsustainable fishery production could impact climate change, and how technologies helped to alleviate some of the pressure on wild fish catch, such as aquaculture, fish and seafood farming. 
 
 ## Describe your dataset in about 150-200 words
-
-**Please remember to update this section**
 
 Our dataset comprises the global fishery production per year across different countries and regions via methods of wild capture and farming production. The production levels are all measured in terms of metric tones, and each country and region are identified by their country code. The variation of fishery production data helps us to identify whether a particular country overproduced and over-captured fish stocks, allowing us to predict changes in the fishing production for that particular country and the impact it may have on climate change as a whole. We also look at different fishery methods such as aquaculture, the practice of fish and seafood farming, and correlate its shifting change of methods to identify whether the improved production innovation has helped to alleviate some of the pressure of fish and seafood farming.
 
