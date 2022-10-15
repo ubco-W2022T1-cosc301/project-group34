@@ -21,7 +21,6 @@ We want to explore how overfishing and unsustainable fishery production could im
 
 ## Team Members
 
-
 - Person 1: Livia Zalilla
 - Person 2: Lily Yao
 - Person 3: Nick Chen
@@ -33,7 +32,6 @@ We want to explore how overfishing and unsustainable fishery production could im
 rbouwman/iStock
 
 ## References
-
 
 NRDC. (2021). Stop Overfishing and Restore Fisheries [Infographic]. NDRC. https://www.nrdc.org/issues/stop-overfishing-and-restore-fisheries
 
