@@ -6,6 +6,18 @@ Our group has chosen to explore the topic on the growing demand for fish and sea
 
 ## Exploratory Data Analysis
 
+![image](./images/EDA1.png)
+![image](./images/EDA2.png)
+
+A Jointplot from [Analysis 1](./notebooks/nick.ipynb), showing the distribution of data, the occurances of the datapoints and the trend of overexploited and sustainable fish stocks.
+
+![image](./images/EDA3.png)
+
+Here is a heatmap from [Analysis 3](./notebooks/livia.ipynb), presenting the correlation strength between different types of fish stocks and their parameters.
+
+![image](./images/EDA4.png)
+Here is a scatter plot from from [Analysis 2](./notebooks/lily.ipynb), showing different types of sustainable fishstocks over years.
+
 ## Question 1 and Results (Investigated by Nick):
 
 ### **Does aquaculture has reduced the serverity of overfishing and how widely adopted aquaculture farming are globally?**
@@ -28,8 +40,11 @@ These figures are two bar charts of sustainable/overfished production and freshw
 Here we can see that the aquaculture production has a slightly higher portion than the one in capture fisheries production, roughtly about 15% higher, which may indicate that Aquaculture is still the main preference for these region to produce fish. Bare in mind that the Aquaculture is part of the sustainable method that reduces the impact of climate change. However, the capture fisheries still remains large, I assumed that this change of production only happens recently by the awareness of the climate change, or perhaps it may caused by many fishery production has not made a proper transition to aquaculture, or even many fish stock avaliable is not viable for aquaculture.
 
 ![image](./images/nick4.png)
+![image](./images/nick5.png)
 
 It's possible from the graphs to see that there is a firm correlation between aquaculture production and freshwater fish prodution, but there isn't a clear relationship on which aquaculture reduces the impact of overfishing, in fact, the mean rate of overexploited fish stock climbs over the past decades. The dataset could be refined as most the values for countries are missing with null values, but from the data it can be seen that overexploited fish production had a major fluctuation between 1986 to 1990. The product records at 2002 was rare and has only one datapoint, resulting very small collection of datapoints hence skewing the results. Overall, the declining trend of sustainable fishing method can be an indicator that aquaculture isn't the only factor that helps to slow down the rate of overfishing, the result of reducing the impact of overfishing maybe cause by human factors and the interest of customer who made decision on the source of fish that they tend to buy.
+
+[Jump to the analysis](./notebooks/nick.ipynb)
 
 ## Question 2 and Results(Investigated by Lily):
 
