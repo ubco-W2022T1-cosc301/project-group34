@@ -13,7 +13,7 @@ A Jointplot from [Analysis 1](./notebooks/nick.ipynb), showing the distribution 
 
 ![image](./images/EDA3.png)
 
-Here is a heatmap from [Analysis 3](./notebooks/livia.ipynb), presenting the correlation strength between different types of fish stocks and their parameters.
+Here is a heatmap from [Analysis 3](./notebooks/livia_1.ipynb), presenting the correlation strength between different types of fish stocks and their parameters.
 
 ![image](./images/EDA4.png)
 Here is a scatter plot from from [Analysis 2](./notebooks/lily.ipynb), showing different types of sustainable fishstocks over years.
@@ -74,7 +74,7 @@ Moreover, the countries with the highest seafood supply have decreased in seafoo
 
 In conclusion, as industrial fishing production continues to overfish, the resilience of many marine species will weaken making them more vulnerable to ocean warming and extinction. Therefore, many countries will experience a shortage of seafood supply and ocean regions will decrease in biologically sustainable fish stock. This will result in unequal amounts of wild fish stock all over the world. Overall, we will experince the effects of overfishing all around the world in our sustainable fish stock and our industrial fishing production. 
 
-The full analysis notebook can be found [here](./notebooks/livia.ipynb)
+The full analysis notebook can be found [here](./notebooks/livia_1.ipynb)
 
 ## Conclusion:
 
