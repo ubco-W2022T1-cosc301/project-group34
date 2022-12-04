@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Our group has chosen to explore the topic on the growing demand for fish and seafood and the affects it has on climate change. The ever growing demand resulted in growing development for both global fish and seafood production or wild capturing to meet this demand. But how does this affect climate change? With the ever growing demand will the wild fish stock be able to keep up with overfishing? Additionally, we would like to delve further into how technology can be used to aid in the effects of overfishing via aquaculture and seafood farming. Lastly, we would like to look into the extent of each country/region's overfishing trends and compare it to the their production trends. Our group chose to pursue this topic as we are very interested in sustainability and the possible affects fishing has on suatinability.
+Our group has chosen to explore the topic on the growing demand for fish and seafood and the affects it has on climate change. The ever growing demand resulted in growing development for both global fish and seafood production or wild capturing to meet this demand. But how does this affect climate change? With the ever growing demand will the wild fish stock be able to keep up with overfishing? Additionally, we would like to delve further into how technology can be used to aid in the effects of overfishing via aquaculture and seafood farming. Lastly, we would like to look into the extent of each country/region's overfishing trends and compare it to the their production trends. Our group chose to pursue this topic as we are very interested in sustainability and the possible affects fishing has on sustainability.
 
 ## Exploratory Data Analysis
 
@@ -62,15 +62,17 @@ More information and the full analysis notebook, code, and data can be found [he
 
 ## Question 3 and Results (Investigated by Livia):
 
-My primary interest is the impact of industrial fishing production on the global population and sustainable fish stock. My analysis was focused on answering the question: "How will different countries/regions be impacted by overfishing?". I retrieved my data from two seperate datasets and focused on two different variables, 'Capture fisheries production' and 'Seafood supply'. 
+My primary interest is the impact of industrial fishing production on the global population and sustainable fish stock. My analysis was focused on answering the question: "How will different countries/regions be impacted by overfishing?". To begin my exploratory data analysis, I retrieved my data from two seperate datasets and focused on two different variables, 'Capture fisheries production' and 'Seafood supply'. 
 
 As I observed the trends for capture fisheries production, I can see an increase of the top countries with high fishing production over the years. Meanwhile, the bottom countries with low fishing production continues to decrease over the years. Following this trend, I can predict the countries that have established high production rates will have a higher probability of increasing their fishing production over the future years than others. 
 ![plot1](./images/livia1.png)
+![plot1](./images/livia2.png)
 
 Moreover, the countries with the highest seafood supply have decreased in seafood supply over the following year, meanwhile, countries with the lowest seafood supply have decreased as well over the years. Therefore, this trend shows that countries with high seafood supply will have the same probablity as countries with a low seafood supply. 
-![plot2](./images/livia2.png)
+![plot2](./images/livia3.png)
+![plot1](./images/livia4.png)
 
-In conclusion, as industrial fishing production continues to overfish, the resilience of many marine species will weaken making them more vulnerable to ocean warming and extinction. Therefore, many countries will experience a shortage of seafood supply and ocean regions will decrease in biologically sustainable fish stock. 
+In conclusion, as industrial fishing production continues to overfish, the resilience of many marine species will weaken making them more vulnerable to ocean warming and extinction. Therefore, many countries will experience a shortage of seafood supply and ocean regions will decrease in biologically sustainable fish stock. This will result in unequal amounts of wild fish stock all over the world. Overall, we will experince the effects of overfishing all around the world in our sustainable fish stock and our industrial fishing production. 
 
 The full analysis notebook can be found [here](./notebooks/livia.ipynb)
 
